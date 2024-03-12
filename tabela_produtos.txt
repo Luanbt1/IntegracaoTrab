@@ -1,0 +1,9 @@
+nome,empresa,descricao,quantidade,marca,valor
+Desinfetante,Pinho Sol,Desinfetante multiuso,150,Pinho Sol,7.00
+Amaciante,Downy,Amaciante de roupas,100,Downy,15.00
+Limpa Vidros,Veja,Limpa vidros spray,200,Veja,12.00
+Lava Roupas,Omo,Lava roupas líquido,180,Omo,21.00
+Papel Higiênico,Neve,Papel higiênico folha dupla,400,Neve,25.00
+Alvejante,Vanish,Alvejante sem cloro,150,Vanish,10.00
+Esponja de Aço,Bombril,Esponja de aço inox,250,Bombril,5.00
+Multiuso,Cif,Limpeza pesada,200,Cif,9.50
